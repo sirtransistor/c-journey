@@ -1,1 +1,3 @@
+## C Journey
+
 Bu repo'da adım adım C programlama dilini öğrenecek ve GitHub'a yükleyeceğim. Daha sonra bu dosya güncellenecek ve shortcut'lar eklenecek...
